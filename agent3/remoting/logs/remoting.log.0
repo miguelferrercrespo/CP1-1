@@ -1,0 +1,10 @@
+dic 24, 2025 1:41:58 P. M. hudson.remoting.Launcher createEngine
+INFO: Setting up agent: agent3
+dic 24, 2025 1:41:58 P. M. hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3327.v868139a_d00e0
+dic 24, 2025 1:41:58 P. M. org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\migue\Unir_Devops\agent3\remoting as a remoting work directory
+dic 24, 2025 1:41:58 P. M. hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+dic 24, 2025 1:41:58 P. M. hudson.remoting.Launcher$CuiListener status
+INFO: Connected
